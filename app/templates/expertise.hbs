@@ -1,0 +1,16 @@
+{{#transition-group transition-class="SlideIn"}}
+	{{#each model as |item|}}
+		<h1>{{item.title}}</h1>
+		<h2>{{item.intro}}</h2>
+	{{/each}}
+	<hr>
+
+	{{#each model.skills as |item|}}
+		{{log item}}
+		{{#each item.qualities as |list1| }}
+			{{list1}}
+		{{/each}}
+	{{/each}}
+
+	{{numbered-blocks}}
+{{/transition-group}}

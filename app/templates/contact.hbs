@@ -1,0 +1,20 @@
+{{#transition-group transition-class="SlideIn"}}
+
+	{{#transition-group transition-class="SlideIn"}}
+		{{#each model as |item|}}
+			<h1>{{item.title}}</h1>
+			<h2>{{item.intro}}</h2>
+		{{/each}}
+		<hr>
+		{{#each model as |client|}}
+			{{#each client.content as |item|}}
+				<p>{{item}}</p>
+			{{/each}}
+		{{/each}}
+		{{#each model as |item|}}
+			<a href="{{item.linkedUrl}}" target="_blank">{{item.linked}}</a>
+			<a href="mailto{{item.emailUrl}}">{{item.email}}</a>
+		{{/each}}
+	{{/transition-group}}
+
+{{/transition-group}}

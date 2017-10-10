@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2fd0180-0095-46a1-85c1-60f6903a11bb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/expertise.js" afterPath="$PROJECT_DIR$/app/models/expertise.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.2862052">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name=".ember-cli" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.ember-cli">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="application.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="bio.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/routes/bio.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="clients.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/templates/clients.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="clients.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/routes/clients.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/routes/contact.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="expertise.hbs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/templates/expertise.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="global-nav.hbs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/templates/components/global-nav.hbs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/router.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="horizontal" split-proportion="0.4215956">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="expertise.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app/routes/expertise.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="90">
+                      <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                      <folding>
+                        <element signature="e#0#26#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="field-extractor.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app/helpers/field-extractor.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="210">
+                      <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="index-break.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app/helpers/index-break.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="210">
+                      <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="numbered-blocks.hbs" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/templates/components/numbered-blocks.hbs">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="60">
+                      <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="page-lead-in.hbs" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app/templates/components/page-lead-in.hbs">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="15">
+                      <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/.gitignore">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="270">
+                      <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="bobby_service.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app/models/bobby_service.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="900">
+                      <caret line="60" column="6" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="60" selection-end-column="6" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="expertise.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/app/models/expertise.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="30">
+                      <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="numbered-blocks.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/components/numbered-blocks.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="105">
+                      <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+      <find>bio-component</find>
+      <find>con</find>
+      <find>30</find>
+      <find>transition-group</find>
+      <find>snapsh</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lead-in</replace>
+      <replace>45</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/rbroneak/app</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rbroneak/dist/assets/tests.map" />
+        <option value="$PROJECT_DIR$/rbroneak/tests/integration/components/bio-component-test.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-BkzVnfR7.tmp/2/rbroneak/tests/integration/components/bio-component-test.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-JKsuOdkM.tmp/1/rbroneak/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-JKsuOdkM.tmp/1/rbroneak/templates/bio.hbs" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-SZkpv0CZ.tmp/0/rbroneak/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-UnVl1vml.tmp/1/assets/rbroneak.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-UnVl1vml.tmp/1/assets/rbroneak.map" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-VDkFKWh5.tmp/1/rbroneak/components/bio-component.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-VDkFKWh5.tmp/1/rbroneak/templates/application.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-VDkFKWh5.tmp/1/rbroneak/templates/bio.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-VDkFKWh5.tmp/1/rbroneak/templates/components/bio-component.js" />
+        <option value="$PROJECT_DIR$/rbroneak/tmp/broccoli_merge_trees-input_base_path-SZkpv0CZ.tmp/0/rbroneak/templates/bio.hbs" />
+        <option value="$PROJECT_DIR$/config/environment.js" />
+        <option value="$PROJECT_DIR$/app/templates/global-nav.hbs" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/styles/app.scss" />
+        <option value="$PROJECT_DIR$/app/templates/components/page-lead-in.hbs" />
+        <option value="$PROJECT_DIR$/app/components/content-transition.js" />
+        <option value="$PROJECT_DIR$/app/styles/transitions.scss" />
+        <option value="$PROJECT_DIR$/app/helpers/field-extractor.js" />
+        <option value="$PROJECT_DIR$/app/routes/clients.js" />
+        <option value="$PROJECT_DIR$/app/templates/clients.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/contact.hbs" />
+        <option value="$PROJECT_DIR$/app/helpers/moduloIf.js" />
+        <option value="$PROJECT_DIR$/app/helpers/nthIndex.js" />
+        <option value="$PROJECT_DIR$/app/routes/contact.js" />
+        <option value="$PROJECT_DIR$/app/helpers/nth-Index.js" />
+        <option value="$PROJECT_DIR$/app/helpers/nth-index.js" />
+        <option value="$PROJECT_DIR$/app/components/global-nav.js" />
+        <option value="$PROJECT_DIR$/app/components/global-footer.js" />
+        <option value="$PROJECT_DIR$/app/components/page-lead-in.js" />
+        <option value="$PROJECT_DIR$/app/templates/components/global-footer.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/components/global-nav.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" />
+        <option value="$PROJECT_DIR$/app/templates/bio.hbs" />
+        <option value="$PROJECT_DIR$/.ember-cli" />
+        <option value="$PROJECT_DIR$/app/helpers/partition.js" />
+        <option value="$PROJECT_DIR$/app/helpers/index-break.js" />
+        <option value="$PROJECT_DIR$/app/models/bobby_service.js" />
+        <option value="$PROJECT_DIR$/app/routes/expertise.js" />
+        <option value="$PROJECT_DIR$/app/router.js" />
+        <option value="$PROJECT_DIR$/app/routes/bio.js" />
+        <option value="$PROJECT_DIR$/app/templates/components/numbered-blocks.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/expertise.hbs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/models/expertise.js" />
+        <option value="$PROJECT_DIR$/app/adapters/expertise.js" />
+        <option value="$PROJECT_DIR$/app/components/numbered-blocks.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-2KG7xkIF.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-3LFPIEz0.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-4ZNnewqy.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-6ChGX45P.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-7S0M7Bfx.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-8bBLKZZp.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-9u9SxuFW.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-CKy7mhI1.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-DhQa1X1c.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-E1LOMt3X.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-EEr81jkj.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-El62yImV.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-F3VCObS2.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Fvmy4HVJ.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-GGwLE7es.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-H0MmqH1a.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-HCzPxlJg.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-JPSGsoij.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-KukW2Lcl.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-LAFrwGOf.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-O7oAHZ1J.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-OuM68zPa.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-TAy3JJKU.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-TPROsPh7.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-TwZUbdjY.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-VL8fqVdH.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-WPEkmOaM.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-X8KVdD0n.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-YxVO4x1g.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Z9haR8CV.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ZVNzfMZy.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-aT51yUd7.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ax6cgYgA.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-cHMV6wqK.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-dDF32zTK.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-dFlnpfWU.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-je19uGeX.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-jxmpmRF3.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-kQY0piJ4.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-lMTxnMXg.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-lvlgtQZg.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-pyXw7TmP.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-rE0RWLJw.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-tcV77S7d.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-wgtRlUXO.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-z71AXlGo.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zNb0rzAL.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zTCEo0MM.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-03EUAS21.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-0OitPmcz.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-2k04n7HD.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3Lz6wvhB.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3gDfK1ZQ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3jWarIpf.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-6WLAaRND.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-8XKuTCRr.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-A6TQy7Qn.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Bvo9SzR4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-DvlKMPO4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-FMS4hBcT.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-FvrKl1b9.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-GfUCUSeN.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-HIJNn7aK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Ht4D8U3q.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-JQsnklKn.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-KifNYVEC.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-L7UPk32Q.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-LDbSTeVI.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-MWKvrG4J.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Pvvn9dTE.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-QxcuDCDS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RQjmSfYA.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RTAbBnHV.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RVVHzhEb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RtvgJVr0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-SD1eHZAg.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-SDVMppsn.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-SyBSD043.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-WNgaFbJ5.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Y0PzaTaj.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Zw71Ieso.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-aY2owgdP.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-e8ktcs5R.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-esBwAEN5.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-gch0CxbR.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ipzn8uth.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-iwp8MEQ8.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-iyacb749.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-lPeoepOl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-m4AgfcwP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-mVRQ29z3.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-nZtVfO9L.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ru3ybFoT.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-sBZatLsP.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-tEoVljBf.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-u7ffGZaJ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-6OsrWYOm.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-9wufOfG8.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-EovdhHTd.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-I8hoxw45.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-K7ZixKqu.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-UEECC2vS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-UISl9c6W.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-W3ud0Tn3.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-jxFnWNlP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-kirY0DvK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-m6Trrq1I.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-oCJpSDcw.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-r7wckKn2.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-rB9iTMZ3.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-vub8yMtn.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-zWHRROT0.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-5bXP9Lps.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-6hxfzyGY.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-DNimborF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-EqClPflI.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-GN3htgyg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-INAuhcHD.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-IV8rTs4I.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-Xt6rwA0m.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-ZbheFuy0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-5p1sspwz.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-9w6LHF9v.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-FIA4BpLU.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-HzQ8bZLT.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-JotSkF12.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-LtkvyIoQ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-d23nMIky.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-hf7qSWmS.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-nc1huYhD.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-RIaXrUgG.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-cuXdYtMO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-eAbQs1YV.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-iWU5NB7K.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-pfTfPtWh.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-vYae6Yb0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-xAiFIu75.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-4BV2yby9.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-694XJcDr.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-DSffvJK4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-JqNynMSl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-QDbJUZb9.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-Qcgbt6Bv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-TlXC3vVg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-VV8D6eWP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-ZiZbiMHO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-e6XZFlME.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-r4dOkLne.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-rgDgkW5p.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-ub6Pp1x6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-zRaWK4tA.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-0A4bcV5U.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-5KuDaBFQ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-5vdJGqJu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-8lGxaIwq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-BkBYerqM.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-D20w5G0c.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-ECKrgIxO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-EnQ3Excv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-F0guQmi7.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-LIOQHhXA.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-YtXgDz1J.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-b43iiyIO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-dBWo8e5G.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-dzSrWOxP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-e77asktK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-fY6pmnHW.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-lgLqgftD.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-rODxcdZl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-sIynwjul.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-tP8CBYOx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-zAL1EtY8.tmp/vendor/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-2KG7xkIF.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-3LFPIEz0.tmp/1/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-4ZNnewqy.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-6ChGX45P.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-7S0M7Bfx.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-9u9SxuFW.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-E1LOMt3X.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-EEr81jkj.tmp/1/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-H0MmqH1a.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-HCzPxlJg.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-JPSGsoij.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-LAFrwGOf.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-TAy3JJKU.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-VL8fqVdH.tmp/1/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Z9haR8CV.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ZVNzfMZy.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-aT51yUd7.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ax6cgYgA.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-cHMV6wqK.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-dDF32zTK.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-dFlnpfWU.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-jxmpmRF3.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-kQY0piJ4.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-lMTxnMXg.tmp/1/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-pyXw7TmP.tmp/0/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-z71AXlGo.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zNb0rzAL.tmp/2/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-03EUAS21.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-0OitPmcz.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-2k04n7HD.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3Lz6wvhB.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3jWarIpf.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-6WLAaRND.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-8XKuTCRr.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-A6TQy7Qn.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Bvo9SzR4.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-L7UPk32Q.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-LDbSTeVI.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Pvvn9dTE.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-QxcuDCDS.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RTAbBnHV.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RVVHzhEb.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RtvgJVr0.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-SD1eHZAg.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Zw71Ieso.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-gch0CxbR.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-iwp8MEQ8.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-iyacb749.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-lPeoepOl.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-m4AgfcwP.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-mVRQ29z3.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ru3ybFoT.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-sBZatLsP.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-tEoVljBf.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-6OsrWYOm.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-9wufOfG8.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-I8hoxw45.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-UEECC2vS.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-W3ud0Tn3.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-kirY0DvK.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-r7wckKn2.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-rB9iTMZ3.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-input_base_path-zWHRROT0.tmp/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-output_path-5bXP9Lps.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-output_path-6hxfzyGY.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-output_path-DNimborF.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-output_path-Xt6rwA0m.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/funnel-output_path-ZbheFuy0.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-RIaXrUgG.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-eAbQs1YV.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-iWU5NB7K.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-vYae6Yb0.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-4BV2yby9.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-694XJcDr.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-JqNynMSl.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-TlXC3vVg.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-VV8D6eWP.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-e6XZFlME.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-ub6Pp1x6.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-zRaWK4tA.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-5vdJGqJu.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-BkBYerqM.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-D20w5G0c.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-F0guQmi7.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-LIOQHhXA.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-YtXgDz1J.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-b43iiyIO.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-dzSrWOxP.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-e77asktK.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-lgLqgftD.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-rODxcdZl.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-sIynwjul.tmp/vendor/package.json" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ember" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/models" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2fd0180-0095-46a1-85c1-60f6903a11bb" name="Default" comment="" />
+      <created>1507063136511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507063136511</updated>
+      <workItem from="1507063139824" duration="870000" />
+      <workItem from="1507064050384" duration="17156000" />
+      <workItem from="1507151102255" duration="7747000" />
+      <workItem from="1507304572738" duration="42000" />
+      <workItem from="1507304661643" duration="12057000" />
+      <workItem from="1507323616851" duration="1011000" />
+      <workItem from="1507324976729" duration="711000" />
+      <workItem from="1507561755602" duration="494000" />
+      <workItem from="1507562359333" duration="5000" />
+      <workItem from="1507567541464" duration="1000" />
+      <workItem from="1507567554545" duration="318000" />
+      <workItem from="1507567907800" duration="2777000" />
+      <workItem from="1507571987876" duration="10754000" />
+      <workItem from="1507652465825" duration="53000" />
+      <workItem from="1507652557206" duration="2299000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Ember Commit">
+      <created>1507652927816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507652927816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56295000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19420175" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49841145" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3034749" sideWeight="0.5313741" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49841145" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49046862" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3034749" sideWeight="0.4686259" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.407722" sideWeight="0.5186656" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49839523" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.407722" sideWeight="0.4813344" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18864179" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Initial Ember Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Ember Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/templates/expertise.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/global-footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/global-footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/global-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/page-lead-in.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/global-nav.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/bobby_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/field-extractor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/page-lead-in.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/index-break.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/contact.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/global-footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/global-footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/global-nav.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="66" lean-forward="false" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/global-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/page-lead-in.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/expertise.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/bobby_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/field-extractor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/page-lead-in.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/index-break.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/global-footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/global-footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/global-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/page-lead-in.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/contact.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/clients.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ember-cli">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/partition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/bio.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/global-nav.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/bio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/clients.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/expertise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/field-extractor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/index-break.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/page-lead-in.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/components/numbered-blocks.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/expertise.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/bobby_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="6" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="60" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/adapters/expertise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/expertise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/numbered-blocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

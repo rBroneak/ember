@@ -1,8 +1,8 @@
 import Ember from 'ember';
-import data from '../models/bobby_service'
+import data from '../models/clients'
 
 export default Ember.Route.extend({
     model() {
-        return data.clients;
+       return data
     }
 });

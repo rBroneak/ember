@@ -16,7 +16,6 @@ body {
 .container {
 	@include cont();
 }
-
 .site {
 	display: flex;
 	min-height: 100vh;

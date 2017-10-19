@@ -1,5 +1,4 @@
 const data = {
-    leadin: 'leadin',
     title: 'technical and intelectual Skills' ,
     intro: "I have experience and a strong understanding of the following",
     qualities: {
@@ -18,7 +17,9 @@ const data = {
             'Creative Direction',
             'Fine Art',
             'Graphic Design',
-            'HTML 5',
+            'HTML 5'
+        ],
+        list2: [
             'Illustration',
             'Interactive Media',
             'JavaScript',

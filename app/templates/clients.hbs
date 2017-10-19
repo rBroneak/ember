@@ -1,14 +1,13 @@
 {{#transition-group transition-class="SlideIn"}}
-	{{#each model as |client|}}
-		<h1>{{client.title}}</h1>
-		<h2>{{client.intro}}</h2>
-	{{/each}}
+	<h1>{{model.title}}</h1>
+	<h2>{{model.intro}}</h2>
 	<hr>
-	{{#each model as |client|}}
-		<ul>{{#each client.clientList as |item|}}
+	<section class="align-left-top primary-content">
+		<ul>
+		{{#each model.clients.list as |item|}}
 			<li>{{item}}</li>
 		{{/each}}
 		</ul>
-	{{/each}}
+	</section>
 {{/transition-group}}
 

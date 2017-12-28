@@ -3,11 +3,13 @@
 	<h2>{{model.intro}}</h2>
 	<hr>
 	<section class="align-left-top primary-content">
-		<ul>
-		{{#each model.clients.list as |item|}}
-			<li>{{item}}</li>
+		<div class="flex-wrap">
+		{{#each model.list as |item|}}
+		<div class="card-wrap col-1-4">
+			<div class="card"><h6>{{item}}</h6></div>
+			</div>
 		{{/each}}
-		</ul>
+		</div>
 	</section>
 {{/transition-group}}
 

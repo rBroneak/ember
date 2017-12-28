@@ -3,8 +3,6 @@
 	<h2>{{model.intro}}</h2>
 	<hr>
 	<section class="primary-content">
-	{{#each model.contents.content as |item|}}
-		<p>{{item}}</p>
-	{{/each}}
+		{{{model.content}}}
 	</section>
 {{/transition-group}}

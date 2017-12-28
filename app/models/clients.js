@@ -1,19 +1,7 @@
-const data = {
-    title: 'clients' ,
-    intro: "I've done work for the following clients",
-    clients: {
-        list: [
-            'Andersenwindows',
-            'Azul7',
-            'AARP',
-            'GeekSquad',
-            'Hazelden',
-            'Heggies Pizza',
-            'Hazelden Betty Ford',
-            'Hennepin County',
-            'Intel',
-            'JambaJuice',
-        ],
-    }
-} 
-export default data
+import DS from 'ember-data';
+
+export default DS.Model.extend({
+  title: DS.attr('string'),
+  list: DS.attr(),
+  intro: DS.attr('string')
+});

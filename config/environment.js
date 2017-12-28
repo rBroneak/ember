@@ -7,6 +7,19 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+    contentSecurityPolicy: {
+      'script-src': "'self' 'unsafe-eval' apis.google.com",
+      'frame-src': "'self' https://*.firebaseapp.com",
+      'connect-src': "'self' wss://*.firebaseio.com https://*.googleapis.com"
+    },
+    firebase: {
+      apiKey: "AIzaSyBeZVo0SbdXdFZZv-976RqtwfMQCLo3AXE",
+      authDomain: "rbroneak-95e28.firebaseapp.com",
+      databaseURL: "https://rbroneak-95e28.firebaseio.com",
+      projectId: "rbroneak-95e28",
+      storageBucket: "rbroneak-95e28.appspot.com",
+      messagingSenderId: "928403098830"
+    },
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -17,7 +30,7 @@ module.exports = function(environment) {
         Date: false
       }
     },
-
+    
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
@@ -30,6 +43,7 @@ module.exports = function(environment) {
     ENV.APP.LOG_TRANSITIONS = true;
     ENV.APP.LOG_TRANSITIONS_INTERNAL = true;
     ENV.APP.LOG_VIEW_LOOKUPS = true;
+    
   }
 
   if (environment === 'test') {

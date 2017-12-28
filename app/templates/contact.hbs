@@ -3,9 +3,7 @@
 		<h2>{{model.intro}}</h2>
 		<hr>
 		<section class="primary-content">
-		{{#each model.contents.content as |item|}}
-			<p>{{item}}</p>
-		{{/each}}
+		{{{model.content}}}
 			<a href="mailto{{model.emailUrl}}">{{model.email}}</a>
 			<a href="{{model.linkedUrl}}" target="_blank">{{model.linked}}</a>
 	</section>

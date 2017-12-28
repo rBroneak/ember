@@ -1,8 +1,7 @@
 import Ember from 'ember';
-import data from '../models/contact'
 
-export default Ember.Route.extend({
-    model() {
-        return data;
-    }
+export default Ember.Route.extend({  
+  model: function() {
+    return this.store.findRecord('contact' , '0');
+  }
 });

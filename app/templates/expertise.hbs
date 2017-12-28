@@ -3,15 +3,10 @@
 	<h2>{{model.intro}}</h2>
 	<hr> 
 	<section class="align-left-top primary-content">
-		<ul>
-		{{#each model.qualities.list1 as |item|}}
-			<li>{{item}}</li>
+		<div class="flex-wrap">
+		{{#each model.list as |item|}}
+			<div class="card">{{item}}</div>
 		{{/each}}
-		</ul>
-		<ul>
-		{{#each model.qualities.list2 as |item|}}
-			<li>{{item}}</li>
-		{{/each}} 
-		</ul>
+		</div>
 	</section>
 {{/transition-group}}
